@@ -1,0 +1,642 @@
+[
+  {
+    "word": "млат",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>млади</span>."
+  },
+  {
+    "word": "глат",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>гладен</span>."
+  },
+  {
+    "word": "вхот",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>входове</span>."
+  },
+  {
+    "word": "плот",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>плодове</span>."
+  },
+  {
+    "word": "самолед",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>д</span>. Правилно е да се напише <span class='highlight'>т</span>. Проверяваме с думата <span class='highlight'>самолети</span>."
+  },
+  {
+    "word": "сладолет",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>сладоледи</span>."
+  },
+  {
+    "word": "изглет",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>изгледи</span>."
+  },
+  {
+    "word": "брад",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>д</span>. Правилно е да се напише <span class='highlight'>т</span>. Проверяваме с думата <span class='highlight'>братя</span>."
+  },
+  {
+    "word": "братовчет",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>братовчеди</span>."
+  },
+  {
+    "word": "шоколат",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>шоколади</span>."
+  },
+  {
+    "word": "пръф",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ф</span>. Правилно е да се напише <span class='highlight'>в</span>. Проверяваме с думата <span class='highlight'>първи</span>."
+  },
+  {
+    "word": "праф",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ф</span>. Правилно е да се напише <span class='highlight'>в</span>. Проверяваме с думата <span class='highlight'>прави</span>."
+  },
+  {
+    "word": "роф",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ф</span>. Правилно е да се напише <span class='highlight'>в</span>. Проверяваме с думата <span class='highlight'>ровя</span>."
+  },
+  {
+    "word": "картов",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>в</span>. Правилно е да се напише <span class='highlight'>ф</span>. Проверяваме с думата <span class='highlight'>картофи</span>."
+  },
+  {
+    "word": "пантов",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>в</span>. Правилно е да се напише <span class='highlight'>ф</span>. Проверяваме с думата <span class='highlight'>пантофи</span>."
+  },
+  {
+    "word": "жераф",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ф</span>. Правилно е да се напише <span class='highlight'>в</span>. Проверяваме с думата <span class='highlight'>жерави</span>."
+  },
+  {
+    "word": "жирав",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>в</span>. Правилно е да се напише <span class='highlight'>ф</span>. Проверяваме с думата <span class='highlight'>жирафи</span>."
+  },
+  {
+    "word": "лъф",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ф</span>. Правилно е да се напише <span class='highlight'>в</span>. Проверяваме с думата <span class='highlight'>лъвове</span>."
+  },
+  {
+    "word": "лоф",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ф</span>. Правилно е да се напише <span class='highlight'>в</span>. Проверяваме с думата <span class='highlight'>ловя</span>."
+  },
+  {
+    "word": "хубаф",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ф</span>. Правилно е да се напише <span class='highlight'>в</span>. Проверяваме с думата <span class='highlight'>хубави</span>."
+  },
+  {
+    "word": "блог",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>г</span>. Правилно е да се напише <span class='highlight'>к</span>. Проверяваме с думата <span class='highlight'>блокове</span>."
+  },
+  {
+    "word": "прак",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>к</span>. Правилно е да се напише <span class='highlight'>г</span>. Проверяваме с думата <span class='highlight'>прагове</span>."
+  },
+  {
+    "word": "врак",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>к</span>. Правилно е да се напише <span class='highlight'>г</span>. Проверяваме с думата <span class='highlight'>врагове</span>."
+  },
+  {
+    "word": "лег",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>г</span>. Правилно е да се напише <span class='highlight'>к</span>. Проверяваме с думата <span class='highlight'>лекувам</span>."
+  },
+  {
+    "word": "мег",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>г</span>. Правилно е да се напише <span class='highlight'>к</span>. Проверяваме с думата <span class='highlight'>меки</span>."
+  },
+  {
+    "word": "белек",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>к</span>. Правилно е да се напише <span class='highlight'>г</span>. Проверяваме с думата <span class='highlight'>белегът</span>."
+  },
+  {
+    "word": "сняк",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>к</span>. Правилно е да се напише <span class='highlight'>г</span>. Проверяваме с думата <span class='highlight'>снегове</span>."
+  },
+  {
+    "word": "срог",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>г</span>. Правилно е да се напише <span class='highlight'>к</span>. Проверяваме с думата <span class='highlight'>срокове</span>."
+  },
+  {
+    "word": "строк",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>к</span>. Правилно е да се напише <span class='highlight'>г</span>. Проверяваме с думата <span class='highlight'>строги</span>."
+  },
+  {
+    "word": "краг",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>г</span>. Правилно е да се напише <span class='highlight'>к</span>. Проверяваме с думата <span class='highlight'>крака</span>."
+  },
+  {
+    "word": "прас",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>. Проверяваме с думата <span class='highlight'>празът</span>."
+  },
+  {
+    "word": "мрас",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>. Проверяваме с думата <span class='highlight'>мразовито</span>."
+  },
+  {
+    "word": "орис",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>. Проверяваме с думата <span class='highlight'>оризов</span>."
+  },
+  {
+    "word": "гриз",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>з</span>. Правилно е да се напише <span class='highlight'>с</span>. Проверяваме с думата <span class='highlight'>гриста</span>."
+  },
+  {
+    "word": "круис",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>. Проверяваме с думата <span class='highlight'>круизен</span>."
+  },
+  {
+    "word": "вируз",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>з</span>. Правилно е да се напише <span class='highlight'>с</span>. Проверяваме с думата <span class='highlight'>вирусен</span>."
+  },
+  {
+    "word": "адрез",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>з</span>. Правилно е да се напише <span class='highlight'>с</span>. Проверяваме с думата <span class='highlight'>адреси</span>."
+  },
+  {
+    "word": "автобуз",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>з</span>. Правилно е да се напише <span class='highlight'>с</span>. Проверяваме с думата <span class='highlight'>автобуси</span>."
+  },
+  {
+    "word": "вкуз",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>з</span>. Правилно е да се напише <span class='highlight'>с</span>. Проверяваме с думата <span class='highlight'>вкусен</span>."
+  },
+  {
+    "word": "соз",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>з</span>. Правилно е да се напише <span class='highlight'>с</span>. Проверяваме с думата <span class='highlight'>сосове</span>."
+  },
+  {
+    "word": "прилеб",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>б</span>. Правилно е да се напише <span class='highlight'>п</span>. Проверяваме с думата <span class='highlight'>прилепи</span>."
+  },
+  {
+    "word": "боп",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>п</span>. Правилно е да се напише <span class='highlight'>б</span>. Проверяваме с думата <span class='highlight'>бобен</span>."
+  },
+  {
+    "word": "корап",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>п</span>. Правилно е да се напише <span class='highlight'>б</span>. Проверяваме с думата <span class='highlight'>кораби</span>."
+  },
+  {
+    "word": "поб",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>б</span>. Правилно е да се напише <span class='highlight'>п</span>. Проверяваме с думата <span class='highlight'>попове</span>."
+  },
+  {
+    "word": "микроп",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>п</span>. Правилно е да се напише <span class='highlight'>б</span>. Проверяваме с думата <span class='highlight'>микроби</span>."
+  },
+  {
+    "word": "изкоб",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>б</span>. Правилно е да се напише <span class='highlight'>п</span>. Проверяваме с думата <span class='highlight'>изкопи</span>."
+  },
+  {
+    "word": "свиреб",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>б</span>. Правилно е да се напише <span class='highlight'>п</span>. Проверяваме с думата <span class='highlight'>свирепи</span>."
+  },
+  {
+    "word": "скръп",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>п</span>. Правилно е да се напише <span class='highlight'>б</span>. Проверяваме с думата <span class='highlight'>скръбен</span>."
+  },
+  {
+    "word": "чораб",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>б</span>. Правилно е да се напише <span class='highlight'>п</span>. Проверяваме с думата <span class='highlight'>чорапи</span>."
+  },
+  {
+    "word": "телескоб",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>б</span>. Правилно е да се напише <span class='highlight'>п</span>. Проверяваме с думата <span class='highlight'>телескопи</span>."
+  },
+  {
+    "word": "свеш",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ш</span>. Правилно е да се напише <span class='highlight'>ж</span>. Проверяваме с думата <span class='highlight'>свежест</span>."
+  },
+  {
+    "word": "годеш",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ш</span>. Правилно е да се напише <span class='highlight'>ж</span>. Проверяваме с думата <span class='highlight'>годежен</span>."
+  },
+  {
+    "word": "нош",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ш</span>. Правилно е да се напише <span class='highlight'>ж</span>. Проверяваме с думата <span class='highlight'>ножове</span>."
+  },
+  {
+    "word": "разкож",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ж</span>. Правилно е да се напише <span class='highlight'>ш</span>. Проверяваме с думата <span class='highlight'>разкошен</span>."
+  },
+  {
+    "word": "кож",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ж</span>. Правилно е да се напише <span class='highlight'>ш</span>. Проверяваме с думата <span class='highlight'>кошове</span>."
+  },
+  {
+    "word": "лож",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ж</span>. Правилно е да се напише <span class='highlight'>ш</span>. Проверяваме с думата <span class='highlight'>лоши</span>."
+  },
+  {
+    "word": "таралеш",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ш</span>. Правилно е да се напише <span class='highlight'>ж</span>. Проверяваме с думата <span class='highlight'>таралежи</span>."
+  },
+  {
+    "word": "валеш",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ш</span>. Правилно е да се напише <span class='highlight'>ж</span>. Проверяваме с думата <span class='highlight'>валежи</span>."
+  },
+  {
+    "word": "еташ",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ш</span>. Правилно е да се напише <span class='highlight'>ж</span>. Проверяваме с думата <span class='highlight'>етажи</span>."
+  },
+  {
+    "word": "репорташ",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ш</span>. Правилно е да се напише <span class='highlight'>ж</span>. Проверяваме с думата <span class='highlight'>репортажи</span>."
+  },
+  {
+    "word": "маимуна",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>и</span>. Правилно е да се напише <span class='highlight'>й</span>. Проверяваме, като разделим думата на срички <span class='highlight'>МАЙ-МУ-НА</span>."
+  },
+  {
+    "word": "леика",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>и</span>. Правилно е да се напише <span class='highlight'>й</span>. Проверяваме, като разделим думата на срички <span class='highlight'>ЛЕЙ-КА</span>."
+  },
+  {
+    "word": "пеика",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>и</span>. Правилно е да се напише <span class='highlight'>й</span>. Проверяваме, като разделим думата на срички <span class='highlight'>ПЕЙ-КА</span>."
+  },
+  {
+    "word": "чаиник",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>и</span>. Правилно е да се напише <span class='highlight'>й</span>. Проверяваме, като разделим думата на срички <span class='highlight'>ЧАЙ-НИК</span>."
+  },
+  {
+    "word": "чаика",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>и</span>. Правилно е да се напише <span class='highlight'>й</span>. Проверяваме, като разделим думата на срички <span class='highlight'>ЧАЙ-КА</span>."
+  },
+  {
+    "word": "маика",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>и</span>. Правилно е да се напише <span class='highlight'>й</span>. Проверяваме, като разделим думата на срички <span class='highlight'>МАЙ-КА</span>."
+  },
+  {
+    "word": "идей",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>и</span>. Проверяваме, като разделим думата на срички <span class='highlight'>И-ДЕ-И</span>."
+  },
+  {
+    "word": "змий",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>и</span>. Проверяваме, като разделим думата на срички <span class='highlight'>ЗМИ-И</span>."
+  },
+  {
+    "word": "кайшка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>и</span>. Проверяваме, като разделим думата на срички <span class='highlight'>КА-ИШ-КА</span>."
+  },
+  {
+    "word": "найстина",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>и</span>. Проверяваме, като разделим думата на срички <span class='highlight'>НА-ИС-ТИ-НА</span>."
+  },
+  {
+    "word": "маьонеза",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ь</span>. Правилно е да се напише <span class='highlight'>й</span>, защото е след гласния звук <span class='highlight'>а</span>."
+  },
+  {
+    "word": "маьор",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ь</span>. Правилно е да се напише <span class='highlight'>й</span>, защото е след гласния звук <span class='highlight'>а</span>."
+  },
+  {
+    "word": "актйор",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>ь</span>, защото е след съгласния звук <span class='highlight'>т</span>."
+  },
+  {
+    "word": "булйон",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>ь</span>, защото е след съгласния звук <span class='highlight'>л</span>."
+  },
+  {
+    "word": "дресйор",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>ь</span>, защото е след съгласния звук <span class='highlight'>с</span>."
+  },
+  {
+    "word": "жонглйор",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>ь</span>, защото е след съгласния звук <span class='highlight'>л</span>."
+  },
+  {
+    "word": "позйор",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>ь</span>, защото е след съгласния звук <span class='highlight'>з</span>."
+  },
+  {
+    "word": "шофйор",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>й</span>. Правилно е да се напише <span class='highlight'>ь</span>, защото е след съгласния звук <span class='highlight'>ф</span>."
+  },
+  {
+    "word": "ьод",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ь</span>. Винаги се пише <span class='highlight'>йо</span> в началото на думата."
+  },
+  {
+    "word": "раьон",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ь</span>. Правилно е да се напише <span class='highlight'>й</span>, защото е след гласния звук <span class='highlight'>а</span>."
+  },
+  {
+    "word": "дръфче",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ф</span>. Правилно е да се напише <span class='highlight'>в</span>. Проверяваме с думата <span class='highlight'>дървен</span>."
+  },
+  {
+    "word": "плотче",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>плодове</span>."
+  },
+  {
+    "word": "мрафка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ф</span>. Правилно е да се напише <span class='highlight'>в</span>. Проверяваме с думата <span class='highlight'>мравуняк</span>."
+  },
+  {
+    "word": "платнохотка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>ходя</span>."
+  },
+  {
+    "word": "гъпка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>п</span>. Правилно е да се напише <span class='highlight'>б</span>. Проверяваме с думата <span class='highlight'>гъба</span>."
+  },
+  {
+    "word": "жапче",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>п</span>. Правилно е да се напише <span class='highlight'>б</span>. Проверяваме с думата <span class='highlight'>жаба</span>."
+  },
+  {
+    "word": "корапче",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>п</span>. Правилно е да се напише <span class='highlight'>б</span>. Проверяваме с думата <span class='highlight'>кораби</span>."
+  },
+  {
+    "word": "слатка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>сладък</span>."
+  },
+  {
+    "word": "бисквидка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>д</span>. Правилно е да се напише <span class='highlight'>т</span>. Проверяваме с думата <span class='highlight'>бисквити </span>."
+  },
+  {
+    "word": "разхотка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. Проверяваме с думата <span class='highlight'>разходя</span>."
+  },
+  {
+    "word": "стоден",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. Проверяваме с думата <span class='highlight'>студ</span>."
+  },
+  {
+    "word": "бодилник",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. Проверяваме с думата <span class='highlight'>будя</span>."
+  },
+  {
+    "word": "дарводелец",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. Проверяваме с думата <span class='highlight'>дървен</span>."
+  },
+  {
+    "word": "тагувам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. Проверяваме с думата <span class='highlight'>тъга</span>."
+  },
+  {
+    "word": "жъдувам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ъ</span>. Правилно е да се напише <span class='highlight'>а</span>. Проверяваме с думата <span class='highlight'>жажда</span>."
+  },
+  {
+    "word": "патека",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. Проверяваме с думата <span class='highlight'>път</span>."
+  },
+  {
+    "word": "ракавичка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. Проверяваме с думата <span class='highlight'>ръчен</span>."
+  },
+  {
+    "word": "кащурка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. Проверяваме с думата <span class='highlight'>къща</span>."
+  },
+  {
+    "word": "санувам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. Проверяваме с думата <span class='highlight'>сън</span>."
+  },
+  {
+    "word": "дърявам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ъ</span>. Правилно е да се напише <span class='highlight'>а</span>. Проверяваме с думата <span class='highlight'>дар</span>."
+  },
+  {
+    "word": "оважавам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "окраса",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "обиец",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "оцелвам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "оморен",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "опражнявам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "оченолюбив",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>м</span>. Правилно е да се напише <span class='highlight'>в</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "очтив",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "обедителен",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "овличам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>о</span>. Правилно е да се напише <span class='highlight'>у</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "убратно",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "умекна",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "упаковка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "умагьосам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "убида",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>б</span>. Правилно е да се напише <span class='highlight'>д</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "убогатявам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "убелвам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "уписвам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "умесвам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "учертавам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "испращам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>, защото е използвана представката <span class='highlight'>-ИЗ</span>."
+  },
+  {
+    "word": "исключвам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>, защото е използвана представката <span class='highlight'>-ИЗ</span>."
+  },
+  {
+    "word": "исхвърлям",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>, защото е използвана представката <span class='highlight'>-ИЗ</span>."
+  },
+  {
+    "word": "распределям",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>, защото е използвана представката <span class='highlight'>-РАЗ</span>."
+  },
+  {
+    "word": "раскривам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>, защото е използвана представката <span class='highlight'>-РАЗ</span>."
+  },
+  {
+    "word": "бессмъртен",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>, защото е използвана представката <span class='highlight'>-БЕЗ</span>."
+  },
+  {
+    "word": "бесплатен",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>, защото е използвана представката <span class='highlight'>-БЕЗ</span>."
+  },
+  {
+    "word": "одмъщавам",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>д</span>. Правилно е да се напише <span class='highlight'>т</span>, защото е използвана представката <span class='highlight'>-ОТ</span>."
+  },
+  {
+    "word": "одхвърлям",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>д</span>. Правилно е да се напише <span class='highlight'>т</span>, защото е използвана представката <span class='highlight'>-ОТ</span>."
+  },
+  {
+    "word": "испиша",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>, защото е използвана представката <span class='highlight'>-ИЗ</span>."
+  },
+  {
+    "word": "радуст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "мъдруст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "старуст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "отговорнуст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "човечнуст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "хубуст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "бодруст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "работоспособнуст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "жертвоготовнуст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "глупуст",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>, защото е използвана наставката  <span class='highlight'>-ОСТ</span>."
+  },
+  {
+    "word": "свера",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>в</span>. Правилно е да се напише <span class='highlight'>ф</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "кумин",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "изтория",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>з</span>. Правилно е да се напише <span class='highlight'>с</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "стъдион",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ъ</span>. Правилно е да се напише <span class='highlight'>а</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "лотка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>д</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "сърми",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ъ</span>. Правилно е да се напише <span class='highlight'>а</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "бубулечка",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>у</span>. Правилно е да се напише <span class='highlight'>о</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "асвалт",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>т</span>. Правилно е да се напише <span class='highlight'>с</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "къзан",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ъ</span>. Правилно е да се напише <span class='highlight'>а</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "госба",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>с</span>. Правилно е да се напише <span class='highlight'>з</span>. <span class='highlight'>Правописът на тази дума се проверява в правописен речник</span>."
+  },
+  {
+    "word": "малак",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. <div class='highlight'>малък -> малки</div>"
+  },
+  {
+    "word": "сладак",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. <div class='highlight'>сладък -> сладки</div>"
+  },
+  {
+    "word": "сладникъв",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ъ</span>. Правилно е да се напише <span class='highlight'>а</span>. <div class='highlight'>сладникав -> сладникави</div>"
+  },
+  {
+    "word": "гладак",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. <div class='highlight'>гладък -> гладки</div>"
+  },
+  {
+    "word": "мъдар",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. <div class='highlight'>мъдър -> мъдри</div>"
+  },
+  {
+    "word": "щедар",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. <div class='highlight'>щедър -> щедри</div>"
+  },
+  {
+    "word": "ведар",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>а</span>. Правилно е да се напише <span class='highlight'>ъ</span>. <div class='highlight'>ведър -> ведри</div>"
+  },
+  {
+    "word": "казъл",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ъ</span>. Правилно е да се напише <span class='highlight'>а</span>. <div class='highlight'>казал -> казали</div>"
+  },
+  {
+    "word": "лекър",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ъ</span>. Правилно е да се напише <span class='highlight'>а</span>. <div class='highlight'>лекар -> лекари</div>"
+  },
+  {
+    "word": "хубъв",
+    "explanation": "Трябва да се поправи буквата <span class='highlight'>ъ</span>. Правилно е да се напише <span class='highlight'>а</span>. <div class='highlight'>хубав -> хубави</div>"
+  }
+]

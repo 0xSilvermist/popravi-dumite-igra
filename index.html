@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="bg">
+<head>
+    <meta charset="UTF-8">
+    <title>Поправи думите</title>
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css?v=1.0.1">
+</head>
+<body>
+<div class="container">
+    <div id="welcome-screen">
+        <div class="content-wrapper">
+            <div class="board-wrapper">
+                <img class="board" src="img/board.png">
+                <div class="center-info">
+                    <h1 class="title-text">Домашна работа Поправи думите</h1>
+                    <button class="btn btn-primary" id="btn-start">Започни</button>
+                </div>
+            </div>
+            <img class="teacher teacher-watching" src="img/teacher_watching.png">
+        </div>
+    </div>
+    <div id="start-screen">
+        <div class="content-wrapper">
+            <div class="speech-welcome">
+                <img class="speech-balloon-welcome" src="img/speech_balloon_right.png">
+                <p class="speech-text">Здравей, аз съм Пипи! Имам домашна, която не мога да реша сама. Трябва ми твоята
+                    помощ. Натисни върху тетрадката ми, за да ми помогнеш!</p>
+            </div>
+            <img class="welcome-pipi" src="img/welcome_pipi.png">
+            <button class="btn-transparent"></button>
+        </div>
+    </div>
+    <div id="levelModal" class="modal-wrapper">
+        <div class="modal-content">
+            <h5 class="level-modal-text">Избери ниво на трудност</h5>
+            <div class="level-modal-buttons">
+                <button class="btn btn-modal difficulty-level" id="easy-level">Лесно</button>
+                <button class="btn btn-modal difficulty-level" id="hard-level">Трудно</button>
+            </div>
+        </div>
+    </div>
+    <div id="playing-screen">
+        <div class="content-wrapper">
+            <div class="board-wrapper">
+                <img class="board-pipi" id="board-pipi-watching" src="img/pipi_for_board.png">
+                <img class="board-pipi" id="board-pipi-happy" src="img/pipi_for_board_happy.png">
+                <img class="board-pipi" id="board-pipi-worried" src="img/pipi_for_board_worried.png">
+                <img class="board" src="img/board.png">
+                <div>
+                    <h3 class="points">Точки: <span>0</span></h3>
+                    <h3 class="subtitle-text" id="rule-title">Думи с непроверяем правопис</h3>
+                    <button class="btn btn-primary" id="exceptions">Изключения</button>
+                </div>
+                <div class="center-info">
+                    <div id="words"></div>
+                    <button class="btn btn-primary" id="next-word">Следваща дума</button>
+                    <button class="btn btn-primary" id="check-word">Проверка</button>
+                </div>
+                <div id="errorModal" class="modal-wrapper">
+                    <span class="error-modal-close">&times;</span>
+                    <div class="modal-content">
+                        <h5 class="error-modal-text">Открий грешката в думата!</h5>
+                    </div>
+                </div>
+                <div id="exceptionsModal" class="modal-wrapper">
+                    <span class="error-modal-close">&times;</span>
+                    <div class="modal-content">
+                        Тези думи са изключение от правилото и се проверяват в правописния речник:
+                        <ul>
+                            <li>камък</li>
+                            <li>ремък</li>
+                            <li>пясък</li>
+                            <li>замък</li>
+                            <li>сандък</li>
+                            <li>залък</li>
+                            <li>свитък</li>
+                            <li>слитък</li>
+                            <li>плясък</li>
+                            <li>подарък</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <img class="teacher teacher-watching" src="img/teacher_watching.png">
+
+            <div id="correct-wrapper">
+                <div class="speech-correct">
+                    <img class="speech-balloon-correct" src="img/speech_balloon_right.png">
+                    <p class="speech-text">Правилно!</p>
+                </div>
+                <img class="teacher" src="img/teacher_happy.png">
+            </div>
+            <div id="explanation-wrapper">
+                <div class="speech-explanation">
+                    <img class="speech-balloon-explanation" src="img/speech_balloon_right.png">
+                    <p class="speech-text speech-text-explanation" id="explanation"></p>
+                </div>
+                <img class="teacher" src="img/teacher_angry.png">
+            </div>
+            <div id="easyLevelModal" class="modal-wrapper">
+                <div class="modal-content">
+                    <h5 class="error-modal-text">Натисни върху буквата, която смяташ за грешна!</h5>
+                    <button class="btn btn-modal close-instructions">Разбрах</button>
+                </div>
+            </div>
+            <div id="hardLevelModal" class="modal-wrapper">
+                <div class="modal-content">
+                    <h5 class="error-modal-text">Изтрий буквата, която смяташ за грешна и напиши правилната!</h5>
+                    <button class="btn btn-modal close-instructions">Разбрах</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="result-game-screen">
+        <div class="result-content-wrapper">
+            <div class="result-board-wrapper">
+                <img class="board" src="img/board.png">
+                <div class="center-info">
+                    <h3 class="points">Точки: <span>0</span></h3>
+                    <button class="btn btn-primary" id="show-wrong-words">Покажи грешките</button>
+                    <button class="btn btn-primary next-game">Следваща игра</button>
+                    <button class="btn btn-primary end-game">Край на играта</button>
+                </div>
+            </div>
+            <img class="result-pipi" src="">
+            <div class="speech-result">
+                <img class="speech-balloon-result" src="img/speech_balloon_left.png">
+                <p class="speech-text speech-text-result">Браво</p>
+            </div>
+            <img class="result-teacher" src="">
+        </div>
+    </div>
+    <div id="wrong-words-screen">
+        <div class="content-wrapper">
+            <div class="board-wrapper">
+                <img class="board" src="img/board.png">
+                <div class="center-info">
+                    <div id="wrong-words" class="wrong-words-wrapper"></div>
+                    <div>
+                        <button class="btn btn-primary" id="previous-wrong-word">Предишна дума</button>
+                        <button class="btn btn-primary" id="next-wrong-word">Следваща дума</button>
+                    </div>
+                    <div>
+                        <button class="btn btn-primary next-game">Следваща игра</button>
+                        <button class="btn btn-primary end-game">Край на играта</button>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div id="no-mobile-screen">
+        <div class="content-wrapper">
+            <div class="board-wrapper">
+                <img class="board" src="img/board.png">
+                <div class="center-info">
+                    <h2 class="title-text">Играта не се поддържа от мобилни устройства!</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="js/jquery.min.js"></script>
+<script src="js/game.js?v=1.0.1"></script>
+</body>
+</html>
